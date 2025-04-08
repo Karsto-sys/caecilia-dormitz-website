@@ -1,63 +1,25 @@
-####################### Spotlight #########################
-style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+####################### Spotlight 4 #########################
+style: "style1 orient-center content-align-center"
 title : "Was hast Du davon?"
 subtitle: |
-  Viele gute Gründe, bei uns mitzusingen
+  Entdecke, warum das Mitsingen bei uns so viel mehr ist als nur Musik.
 content: |
-  <dl>
-    <dt>Stimmtraining</dt>
-    <dd>
-      <ul>
-        <li>Persönliche Stimmförderung durch die Chorleitung</li>
-        <li>Verbesserung des Stimmsitzes</li>
-        <li>Erhöhung des Stimmvolumens</li>
-      </ul>
-    </dd>
+  <p><strong>🎤 Stimmtraining</strong><br>
+  Durch professionelle Gesangsschulung stärkst Du Deine Stimme – für mehr Ausdruckskraft und Klarheit, auch im Alltag.</p>
 
-    <dt>Aufmerksamkeit</dt>
-    <dd>
-      <ul>
-        <li>Konzentration und Merkfähigkeit werden geschult</li>
-        <li>Liedtexte (meist auswendig)</li>
-        <li>Sprache und Ausdruck werden deutlich besser</li>
-      </ul>
-    </dd>
+  <p><strong>🌬️ Atemtechnik</strong><br>
+  Singen fördert eine tiefe Atmung und verbessert die Sauerstoffversorgung im ganzen Körper – bis in jede Zelle.</p>
 
-    <dt>Gesundheit</dt>
-    <dd>
-      <ul>
-        <li>Singen ist gesund!</li>
-        <li>Wirkt sich positiv auf Körper und Psyche aus</li>
-        <li>Senkt den Stresslevel</li>
-        <li>Verbessert die Lungenfunktion</li>
-        <li>Trainiert das Zwerchfell</li>
-        <li>Stärkt das Immunsystem</li>
-        <li>Fördert die Körperhaltung</li>
-      </ul>
-    </dd>
+  <p><strong>💚 Gesundheit</strong><br>
+  Beim Singen werden Glückshormone wie Endorphine und Serotonin ausgeschüttet. Gleichzeitig sinkt der Stresspegel – gut für Körper und Seele.</p>
 
-    <dt>Geselligkeit</dt>
-    <dd>
-      <ul>
-        <li>Regelmäßige Proben</li>
-        <li>Teilnahme an Veranstaltungen</li>
-        <li>Wanderungen und Vereinsausflüge</li>
-        <li>Teilnahme an Chorfesten und Liederabenden</li>
-      </ul>
-    </dd>
+  <p><strong>👫 Geselligkeit</strong><br>
+  Gemeinsame Proben, Ausflüge, Feiern – bei uns bist Du Teil einer lebendigen Gemeinschaft.</p>
 
-    <dt>Dein Aufwand</dt>
-    <dd>
-      <ul>
-        <li>1 x pro Woche Probe</li>
-        <li>3 Euro pro Monat</li>
-        <li>Zeitaufwand: ca. 1,5 h pro Woche</li>
-        <li>Teilnahme an Konzerten oder Veranstaltungen nach Absprache</li>
-      </ul>
-    </dd>
-  </dl>
-button: 
-  label: "Probe besuchen"
-  link: "#contact"
-image: "images/chor-probe.jpg"
-image_alt: "Chorprobe von Cäcilia Dormitz"
+  <p><strong>🕒 Dein Aufwand</strong><br>
+  • Wöchentliche Probe (1x pro Woche, ca. 1,5 Std)<br>
+  • Mitgliedsbeitrag: 3 € pro Monat<br>
+  • Auftritte nach Absprache – ganz flexibel</p>
+
+
+
