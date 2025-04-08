@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Cäcilia Dormitz"
+subtitle: |
+  Willkommen beim Gesangsverein Cäcilia Dormitz - wo Musik und Gemeinschaft zusammenkommen
+content : |
+  Seit über 75 Jahren begeistern wir mit unseren Chorklängen und bereichern das kulturelle Leben in Dormitz. Ob traditionelle Volkslieder oder moderne Chorstücke - bei uns finden Sie eine lebendige Gemeinschaft, die ihre Leidenschaft für den Gesang teilt.
+button:
+  label : "Über uns"
+  link : "#about"
+image : "images/banner.png"
+image_alt: "Bild von einer Musiknote mit der Schrift Gesangsverein Cäcilia Dormitz"
+
