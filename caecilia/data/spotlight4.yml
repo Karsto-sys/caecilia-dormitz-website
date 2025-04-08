@@ -1,0 +1,62 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Was hast Du davon?"
+subtitle: |
+  Viele gute Gründe, bei uns mitzusingen
+content: |
+  <dl>
+    <dt>Stimmtraining</dt>
+    <dd>
+      <ul>
+        <li>Persönliche Stimmförderung durch die Chorleitung</li>
+        <li>Verbesserung des Stimmsitzes</li>
+        <li>Erhöhung des Stimmvolumens</li>
+      </ul>
+    </dd>
+
+    <dt>Aufmerksamkeit</dt>
+    <dd>
+      <ul>
+        <li>Konzentration und Merkfähigkeit werden geschult</li>
+        <li>Liedtexte (meist auswendig)</li>
+        <li>Sprache und Ausdruck werden deutlich besser</li>
+      </ul>
+    </dd>
+
+    <dt>Gesundheit</dt>
+    <dd>
+      <ul>
+        <li>Singen ist gesund!</li>
+        <li>Wirkt sich positiv auf Körper und Psyche aus</li>
+        <li>Senkt den Stresslevel</li>
+        <li>Verbessert die Lungenfunktion</li>
+        <li>Trainiert das Zwerchfell</li>
+        <li>Stärkt das Immunsystem</li>
+        <li>Fördert die Körperhaltung</li>
+      </ul>
+    </dd>
+
+    <dt>Geselligkeit</dt>
+    <dd>
+      <ul>
+        <li>Regelmäßige Proben</li>
+        <li>Teilnahme an Veranstaltungen</li>
+        <li>Wanderungen und Vereinsausflüge</li>
+        <li>Teilnahme an Chorfesten und Liederabenden</li>
+      </ul>
+    </dd>
+
+    <dt>Dein Aufwand</dt>
+    <dd>
+      <ul>
+        <li>1 x pro Woche Probe</li>
+        <li>Zeitaufwand: ca. 1,5 h pro Woche</li>
+        <li>Teilnahme an Konzerten oder Veranstaltungen nach Absprache</li>
+      </ul>
+    </dd>
+  </dl>
+button: 
+  label: "Probe besuchen"
+  link: "#contact"
+image: "images/chor-probe.jpg"
+image_alt: "Chorprobe von Cäcilia Dormitz" 
