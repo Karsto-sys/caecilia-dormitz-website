@@ -1,28 +1,29 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
-title : "Wer sind wir?"
+title : "Wir brauchen Dich!"
 subtitle: |
-  Tradition und Vielfalt seit 1921
+  Werde Teil unserer musikalischen Gemeinschaft
 content: |
   <dl>
-    <dt>Unsere Geschichte</dt>
-    <dd>
-      Der Gesangverein Cäcilia Dormitz wurde 1921 als Männerchor gegründet und singt seit 1984 als gemischter Chor. Im Jahr 2021 wurde uns die höchste deutsche Auszeichnung für Amateurchöre verliehen: Die Zelter-Plakette.
-    </dd>
+    <dt>Sängerinnen und Sänger</dt>
+    <dd>Verstärke unseren Chor mit Deiner Stimme und erlebe die Freude am gemeinsamen Singen.</dd>
 
-    <dt>Unser Repertoire</dt>
+    <dt>Organisatorische Mitglieder</dt>
+    <dd>Unterstütze uns bei der Organisation von Konzerten und Veranstaltungen.</dd>
+
+    <dt>Förder-Mitglieder</dt>
+    <dd>Unterstütze den Chor durch einen Mitgliedsbeitrag und fördere so die Chorkultur.</dd>
+
+    <dt>Spezialisten</dt>
     <dd>
-      Unser breit gefächertes Repertoire wird vom Chor bestimmt und umfasst:
       <ul>
-        <li>Schlager und Pop</li>
-        <li>Klassik aus Oper und Operette</li>
-        <li>Musical und Spiritual</li>
-        <li>Folklore und Volkslieder</li>
+        <li>IT-Experten für die Website-Pflege</li>
+        <li>Musiker für instrumentale Begleitung (Klavier, Saiteninstrumente, Schlagzeug, Schifferklavier)</li>
       </ul>
     </dd>
   </dl>
 button: 
-  label: "Mehr erfahren"
-  link: "#about"
-image: "images/vorstand.jpg"
-image_alt: "Historisches Foto des Gesangvereins Cäcilia Dormitz"
+  label: "Kontaktiere uns"
+  link: "#contact"
+image: "images/weneedyou.png"
+image_alt: "Chorprobe von Cäcilia Dormitz"
