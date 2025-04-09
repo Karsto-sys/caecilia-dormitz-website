@@ -1,26 +1,30 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color3"
 title : "Wir brauchen Dich!"
 subtitle: |
   Werde Teil unserer musikalischen Gemeinschaft
 content: |
   <dl>
     <dt>Sängerinnen und Sänger</dt>
-    <dd>Verstärke unseren Chor mit Deiner Stimme und erlebe die Freude am gemeinsamen Singen.</dd>
-
-    <dt>Organisatorische Mitglieder</dt>
-    <dd>Unterstütze uns bei der Organisation von Konzerten und Veranstaltungen.</dd>
-
+    <dd>die gerne im Chor singen un den Chor mit Ihrer Stimme verstärken</dd>
+  <br>
+    <dt>Mitglieder</dt>
+    <dd>Die gerne mitanpacken, wenn es um Organisation von Konzerten geht, beim Auf- und Abbau diverser Veranstaltungen.</dd>
+  <br>
     <dt>Förder-Mitglieder</dt>
-    <dd>Unterstütze den Chor durch einen Mitgliedsbeitrag und fördere so die Chorkultur.</dd>
-
-    <dt>Spezialisten</dt>
+    <dd>Die den Verein auch monetär unterstützen durch ihren Mitgliedsbeitrag</dd>
+  <br>
+    <dt>Helfer mit speziellem KnowHow</dt>
     <dd>
       <ul>
+        <li>MS-Office</li>
         <li>IT-Experten für die Website-Pflege</li>
-        <li>Musiker für instrumentale Begleitung (Klavier, Saiteninstrumente, Schlagzeug, Schifferklavier)</li>
+        <li>Grafiker für die Gestaltung von Plakaten und Flyern</li>
       </ul>
     </dd>
+    <dt>Instrumentale Unterstützung</dt>
+    <dd>Durch Beherrschung eines Instruments, das zur Chorbegleitung bei AUftritten herangezogen werden kann. z.B. Klavier, Saiteninstrument, Schlagzeug, Schifferklavier etc.    </dd>
+
   </dl>
 button: 
   label: "Kontaktiere uns"

@@ -21,8 +21,6 @@ content: |
       </ul>
     </dd>
   </dl>
-button: 
-  label: "Mehr erfahren"
-  link: "#about"
+
 image: "images/vorstand.jpg"
 image_alt: "Historisches Foto des Gesangvereins Cäcilia Dormitz"
