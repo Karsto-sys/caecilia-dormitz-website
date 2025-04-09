@@ -1,31 +1,36 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color3"
+style: "style4 orient-center content-align-left image-position-center onscroll-image-fade-in "
 title : "Wir brauchen Dich!"
 subtitle: |
   Werde Teil unserer musikalischen Gemeinschaft
 content: |
   <dl>
     <dt>Sängerinnen und Sänger</dt>
-    <dd>die gerne im Chor singen un den Chor mit Ihrer Stimme verstärken</dd>
-  <br>
+    <dd>...die gerne im Chor mitsingen und unsere Stimmen bereichern.</dd>
+    <br>
+
     <dt>Mitglieder</dt>
-    <dd>Die gerne mitanpacken, wenn es um Organisation von Konzerten geht, beim Auf- und Abbau diverser Veranstaltungen.</dd>
-  <br>
-    <dt>Förder-Mitglieder</dt>
-    <dd>Die den Verein auch monetär unterstützen durch ihren Mitgliedsbeitrag</dd>
-  <br>
-    <dt>Helfer mit speziellem KnowHow</dt>
+    <dd>...die mit anpacken – bei der Organisation von Konzerten sowie beim Auf- und Abbau unserer Veranstaltungen.</dd>
+    <br>
+
+    <dt>Fördermitglieder</dt>
+    <dd>...die unseren Verein finanziell durch ihren Mitgliedsbeitrag unterstützen.</dd>
+    <br>
+
+    <dt>Helfer mit speziellem Know-how</dt>
     <dd>
       <ul>
-        <li>MS-Office</li>
-        <li>IT-Experten für die Website-Pflege</li>
-        <li>Grafiker für die Gestaltung von Plakaten und Flyern</li>
+        <li>MS-Office-Kenntnisse</li>
+        <li>IT-Erfahrung für die Pflege unserer Website</li>
+        <li>Grafikdesign für Plakate und Flyer</li>
       </ul>
     </dd>
-    <dt>Instrumentale Unterstützung</dt>
-    <dd>Durch Beherrschung eines Instruments, das zur Chorbegleitung bei AUftritten herangezogen werden kann. z.B. Klavier, Saiteninstrument, Schlagzeug, Schifferklavier etc.    </dd>
+    <br>
 
+    <dt>Instrumentale Unterstützung</dt>
+    <dd>...durch das Spiel eines Instruments zur Begleitung des Chors bei Auftritten – z. B. Klavier, Saiteninstrumente, Schlagzeug oder Schifferklavier.</dd>
   </dl>
+
 button: 
   label: "Kontaktiere uns"
   link: "#contact"

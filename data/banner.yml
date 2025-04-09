@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style3 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Cäcilia Dormitz"
 subtitle: |
   Willkommen beim Gesangsverein Cäcilia Dormitz - wo Musik und Gemeinschaft zusammenkommen
@@ -8,6 +8,6 @@ content : |
 button:
   label : "Schreib uns mal"
   link : "#about"
-image : "images/banner.png"
+image : "images/banner1.png"
 image_alt: "Bild von einer Musiknote mit der Schrift Gesangsverein Cäcilia Dormitz"
 

@@ -1,0 +1,33 @@
+####################### Spotlight 4 #########################
+title : "Was wir so machen!"
+content: |
+ Entdecke, warum das Mitsingen bei uns so viel mehr ist als nur Musik.
+style: "style1 medium onload-fade-in"
+
+items:
+  - name : "Chor-Proben für Auftritte"
+    content : "Jeden Montag im Vereinsheim in Dormitz um 19:30 Uhr. Wir proben für Auftritte und Konzerte, die wir im Laufe des Jahres gestalten."
+    style : "style2 major "
+
+  - name : "Organisation und Teilnahme an Chorkonzerten"
+    content : "Hilf mit bei der Planung unserer Konzerte, der Gestaltung von Gottesdiensten und beim Aufbau einer Schola für die Christ- und Ostermetten! Wir freuen uns auf dich!"
+    style : "solid style2 major "
+
+  - name : "Soziales Engagement"
+    content : "Sei dabei bei Auftritten zu Ortsfesten und Jubiläen, beim Gedenken am Volkstrauertag sowie beim Singen für Menschen mit Behinderung und im Altenheim – Musik verbindet und berührt!"
+    style : "solid style2 major "
+
+  - name : "Gemeinsame Unternehmungen"
+    content : "Erlebe Gemeinschaft bei unseren Vereinsausflügen und Wanderungen oder begleite uns auf Chorreisen – zum Beispiel mit der Chorakademie."
+    style : "solid style2 major "
+
+  - name: "Föderung der Singfreudigkeit"
+    content: "Mit unserem Wirtshaussingen wecken und fördern wir die Freude am gemeinsamen Singen – ganz ungezwungen und mit viel Spaß!"
+    style: "style2 major "
+
+  - name : "In Vorbereitung "
+    content : "Wir arbeiten bald mit Schulen und Schulchören zusammen, für musikalische Projekte, die verbinden."
+    style : "solid style2 major "
+    
+
+
