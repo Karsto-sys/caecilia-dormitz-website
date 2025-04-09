@@ -1,0 +1,60 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Du willst mitmachen?"
+id: "contact"
+subtitle: |
+  Werde Teil unserer musikalischen Gemeinschaft
+content: |
+  <p>Du willst mitmachen? Schreib uns gerne oder komm einfach unverbindlich vorbei.</p>
+
+  <table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Position</th>
+        <th>Name</th>
+        <th>Kontakt</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1. Vorständin</td>
+        <td>Cacilia Geyer</td>
+        <td>Tel.: 09134-7553<br>
+          <a href="mailto:caeciliageyer@web.de">caeciliageyer@web.de</a></td>
+      </tr>
+      <tr>
+        <td>2. Vorstand</td>
+        <td>Manfred Mölkner</td>
+        <td>Mobil: 0177 5167 167<br>
+          <a href="mailto:manfred.moelkner@web.de">manfred.moelkner@web.de</a></td>
+      </tr>
+      <tr>
+        <td>Kassierin</td>
+        <td>Claudia Popp</td>
+        <td>Tel.: 09134 995724</td>
+      </tr>
+      <tr>
+        <td>Schriftführer</td>
+        <td>Günter Popp</td>
+        <td>Tel.: 09134 995725<br>
+          <a href="mailto:guenter.popp@t-online.de">guenter.popp@t-online.de</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+  <p>
+    <strong>Sängerheim / Probenort</strong><br>
+    Pfarrheim neben der Dormitzer Pfarrkirche
+  </p>
+  <p>
+    <strong>Probenzeit</strong><br>
+    Jeden Montag · 19:30 Uhr<br>
+    (Sommerpause: Juli bis Anfang September)
+  <p>
+    <strong>Chorleitung</strong><br>
+    Regina Klatte (Musikpädagogin, Sängerin)<br>
+    – leitet seit 2014 erfolgreich unseren Chor.
+  </p>
+
+image: "images/weare.png"
+image_alt: "Chorprobe von Cäcilia Dormitz"
