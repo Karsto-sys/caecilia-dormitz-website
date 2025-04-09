@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "Cäcilia Dormitz"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
-  logo = "images/banner.jpg"
+  logo = "images/logo.png"
   favicon = true
 
 [Params.social]

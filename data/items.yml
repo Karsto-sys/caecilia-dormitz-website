@@ -2,7 +2,7 @@
 title : "Was hast Du davon?"
 content: |
  Entdecke, warum das Mitsingen bei uns so viel mehr ist als nur Musik.
-style: "style1 medium onscroll-fade-in"
+style: "style1 medium onload-fade-in"
 
 items:
   - name : "Stimmtraining"
@@ -21,9 +21,13 @@ items:
     content : "Gemeinsame Proben, Ausflüge, Feiern – bei uns bist Du Teil einer lebendigen Gemeinschaft."
     style : "solid style2 major fa-users"
 
-  - name : "Dein Aufwand"
-    content : "• Wöchentliche Probe (1x pro Woche, ca. 1,5 Std)\n• Mitgliedsbeitrag: 3 € pro Monat\n• Auftritte nach Absprache – ganz flexibel"
-    style : "style2 major fa-clock"
+  - name: "Dein Aufwand"
+    content: |
+      Wöchentliche Probe ca. 1,5 Std
+      Mitgliedsbeitrag: 3 € pro Monat
+      Auftritte nach Absprache
+    style: "style2 major fa-clock"
+
 
   - name : "Selbstbewusstsein"
     content : "Mit jeder Probe und jedem Auftritt wächst Dein Vertrauen in Dich selbst. Du lernst, Deine Stimme und Deinen Auftritt souverän zu präsentieren."
