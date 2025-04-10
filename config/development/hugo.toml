@@ -35,6 +35,8 @@ disableKinds = ["taxonomy", "section"]
   description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
   logo = "images/logo.png"
   favicon = true
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
 
 [Params.social]
   github = "https://github.com/caressofsteel/"
@@ -48,8 +50,7 @@ disableKinds = ["taxonomy", "section"]
   fontawesome_css = ["css/fontawesome-all.min.css"]
   fontawesome_js = ["js/fontawesome-all.min.js"]
 
-custom_css = ["css/custom.css"]
-custom_js = ["js/custom.js"]
+
 
 [menu]
   [[menu.main]]

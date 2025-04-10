@@ -35,6 +35,8 @@ disableKinds = ["taxonomy", "section"]
   description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
   logo = "images/logo.png"
   favicon = true
+  custom_css = [ "css/custom.css" ]
+  custom_js = ["js/custom.js"]
 
 [Params.social]
   github = "https://github.com/caressofsteel/"
@@ -63,6 +65,3 @@ disableKinds = ["taxonomy", "section"]
     name = "Contact"
     url = "/contact/"
     weight = 3
-
-custom_css = ["css/custom.css"]
-custom_js = ["js/custom.js"]
