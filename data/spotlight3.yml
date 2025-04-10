@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style4 orient-center content-align-left image-position-center onscroll-image-fade-in "
+style: "style4 orient-center content-align-left image-position-center onload-content-fade-in"
 title : "Wir brauchen Dich!"
 subtitle: |
   Werde Teil unserer musikalischen Gemeinschaft

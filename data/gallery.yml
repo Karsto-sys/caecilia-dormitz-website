@@ -1,5 +1,5 @@
 title: "Galerie"
-style: "style2 medium lightbox onscroll-fade-in"
+style: "style2 medium lightbox onload-content-fade-in"
 content: Willkommen in unserer <strong>Galerie</strong>! Hier zeigen wir Eindrücke von unseren letzten <strong>Auftritten und Veranstaltungen</strong>. 
 pictures:
   - title: "Title"

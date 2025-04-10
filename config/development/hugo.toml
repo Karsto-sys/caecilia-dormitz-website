@@ -47,3 +47,22 @@ disableKinds = ["taxonomy", "section"]
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
   fontawesome_js = ["js/fontawesome-all.min.js"]
+
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
