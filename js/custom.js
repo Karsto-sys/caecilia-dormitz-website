@@ -1,17 +1,1 @@
-  window.addEventListener('scroll', function () {
-    const header = document.getElementById('site-header');
-    if (window.scrollY > 50) {
-      header.classList.add('shrink');
-    } else {
-      header.classList.remove('shrink');
-    }
-  });
-
-  document.addEventListener('DOMContentLoaded', function () {
-    const toggle = document.getElementById('nav-toggle');
-    const nav = document.getElementById('nav');
-
-    toggle.addEventListener('click', function () {
-      nav.classList.toggle('open');
-    });
-  });
+window.addEventListener("scroll",function(){let e=document.getElementById("site-header");window.scrollY>50?e.classList.add("shrink"):e.classList.remove("shrink")}),document.addEventListener("DOMContentLoaded",function(){let e=document.getElementById("nav-toggle"),t=document.getElementById("nav");e.addEventListener("click",function(){t.classList.toggle("open")})});
