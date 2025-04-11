@@ -47,10 +47,7 @@ disableKinds = ["taxonomy", "section"]
   telegram = "https://telegram.org"
 
 [Params.asset]
-  fontawesome_css = ["css/fontawesome-all.min.css"]
-  fontawesome_js = ["js/fontawesome-all.min.js"]
-
-
+  fontawesome_css = ["css/optimized/fontawesome-optimized.css"]
 
 [menu]
   [[menu.main]]
